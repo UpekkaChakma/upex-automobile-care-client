@@ -1,0 +1,19 @@
+.side-bar{
+    background-color: rgba(60,77,171,255);
+}
+.sidebar-item{
+    margin: 0;
+    padding: 10px 10px;
+    color: white;
+    background-color: rgba(60,77,171,255);
+}
+.sidebar-item:hover{
+    background-color: #ffffff44;
+}
+.link{
+    padding-left: 20px;
+    color: white;
+}
+.link:hover{
+    color: white;
+}

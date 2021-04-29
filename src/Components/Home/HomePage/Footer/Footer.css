@@ -1,0 +1,19 @@
+
+.footer-area{
+    background-image: url("https://i.ibb.co/hmd8wY3/footer-bg.png");
+    background-color: #73767a;
+    background-size: cover;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+    color: #17c7c1;
+    border-radius: 50%;
+    border: 3px solid #3aadad;
+    padding: 10px;
+}
+.icon:hover{
+    background-color: #3aadad ;
+    color:white;
+}

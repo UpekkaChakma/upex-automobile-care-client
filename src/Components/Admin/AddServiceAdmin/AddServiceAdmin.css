@@ -1,0 +1,13 @@
+
+input[type=file]::file-selector-button {
+    padding: opx 15px;
+    border-radius: .2em;
+    background-color: rgba(60,77,171,255);
+    border: 7px solid rgba(60,77,171,255);
+    transition: 1s;
+    color: white;
+    cursor: pointer;
+  }
+  
+  
+  

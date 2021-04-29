@@ -1,0 +1,15 @@
+.user-sidebar-item{
+    margin: 0;
+    padding: 10px 10px;
+    color: white;
+}
+.user-sidebar-item:hover{
+    background-color: #ffffff44;
+}
+.user-link{
+    padding-left: 20px;
+    color: white;
+}
+.user-link:hover{
+    color: white;
+}
